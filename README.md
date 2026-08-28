@@ -41,3 +41,10 @@ Dataset naming convention:
 - deterministic repetition of the verified 1-page image-only fixture
 - no embedded text layer
 - used to measure per-page OCR scaling against the 1-page baseline
+
+### ocr-test-scan-25page.pdf
+
+- 25 pages
+- deterministic repetition of the verified 1-page image-only fixture
+- no embedded text layer
+- used to measure OCR scaling, memory headroom, and cloud cost at 512 MB
