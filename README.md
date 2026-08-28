@@ -48,3 +48,16 @@ Dataset naming convention:
 - deterministic repetition of the verified 1-page image-only fixture
 - no embedded text layer
 - used to measure OCR scaling, memory headroom, and cloud cost at 512 MB
+
+### ocr-test-scan-10page-noisy-mixed.pdf
+
+- 10 image-only pages
+- 4 clean control pages
+- 1 reduced-contrast page
+- 1 blurred page
+- 1 resolution-degraded page
+- 1 compounded low-contrast/blur page
+- 2 blank image-only pages
+- no embedded text layer
+- generated deterministically by `make_mixed_fixture.py`
+- used to measure OCR quality, blank-page behavior, and noisy-scan economics
