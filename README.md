@@ -34,3 +34,10 @@ Disposable test runs remain unnamed.
 Dataset naming convention:
 
 `<product>-<purpose>-<version-or-case>`
+
+### ocr-test-scan-10page.pdf
+
+- 10 pages
+- deterministic repetition of the verified 1-page image-only fixture
+- no embedded text layer
+- used to measure per-page OCR scaling against the 1-page baseline
