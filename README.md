@@ -1,3 +1,5 @@
+> **Canonical source migrated on 2026-10-08:** development now belongs in [EchoEmpire-Machine-Foundry/fixtures/ocr](https://github.com/EchoEmpireUtility-bot/EchoEmpire-Machine-Foundry/tree/master/fixtures/ocr). This repository is retained for source history and existing consumer/deployment compatibility. The documentation below is its pre-cutover baseline, not a current Empire status or operating-authority source. Use the canonical repository's [STATUS.md](https://github.com/EchoEmpireUtility-bot/EchoEmpire-Machine-Foundry/blob/master/STATUS.md) and [authority map](https://github.com/EchoEmpireUtility-bot/EchoEmpire-Machine-Foundry/blob/master/empire/authority-map.json).
+
 # OCR Benchmark Fixtures
 
 Controlled public fixtures for EchoEmpire Machine Foundry OCR Citation Chunker cloud benchmarking.
